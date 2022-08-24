@@ -15,7 +15,7 @@ En este proyecto, se verá los materiales, el procedimiento y las herramientas d
 ## Modulo de reloj DS1302
 ![](https://github.com/CarlosRuiz02/DispensadorDeComida-Perro/blob/main/Dispensador-comida/Figs/RTC.jpg)
 ## Diagrama
-![](https://github.com/CarlosRuiz02/LaserEmit/blob/main/Laser%20Emit/Laser%20Emit%20Diagrama.PNG)
+![](https://github.com/CarlosRuiz02/DispensadorDeComida-Perro/blob/main/Dispensador-comida/Figs/AlimentadorDiagrama.png)
 
 **En este poyecto se utilizó el modulo RTC DS1302 pero pueden utilizar cualquier otro RTC e incluso el NTC del ESP32**
 
