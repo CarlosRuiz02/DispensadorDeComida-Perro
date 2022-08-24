@@ -13,7 +13,7 @@ En este proyecto, se verá los materiales, el procedimiento y las herramientas d
 </ul>
 
 ## Modulo de reloj DS1302
-![](https://github.com/CarlosRuiz02/LaserEmit/blob/main/Laser%20Emit/LaserEmit.png)
+![](https://github.com/CarlosRuiz02/DispensadorDeComida-Perro/blob/main/Dispensador-comida/Figs/RTC.jpg)
 ## Diagrama
 ![](https://github.com/CarlosRuiz02/LaserEmit/blob/main/Laser%20Emit/Laser%20Emit%20Diagrama.PNG)
 
